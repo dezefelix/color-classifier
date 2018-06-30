@@ -1,0 +1,11 @@
+{
+  "name": "colorclassifier",
+  "version": "1.0.0",
+  "description": "Classifying all colors to one of nine labels",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Felix Boons",
+  "license": "ISC"
+}
